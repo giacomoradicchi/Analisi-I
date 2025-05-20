@@ -1,4 +1,4 @@
-# Appunti di Analisi II
+# Appunti di Analisi I
 
 Benvenuto nella repository degli appunti di **Analisi I**. Qui puoi trovare una raccolta di note e risorse che ho preparato durante il mio studio.
 
